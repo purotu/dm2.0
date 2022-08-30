@@ -1,3 +1,4 @@
 1. Tehdään html-sivun layout
 2. css-tyylien toteutus
 3. JS-tiedostojen toteutus
+3. backendin toteutus
