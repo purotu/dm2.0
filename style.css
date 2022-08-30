@@ -1,3 +1,14 @@
 * {
     box-sizing: border-box;
 }
+
+body {
+    background-color: aqua;
+}
+
+p {
+    margin: 1em;
+    padding: 20px;
+    background-color: blue;
+    color: wheat;
+}
